@@ -1,1 +1,1 @@
-# Detection-of-Melamine-Concentration-in-Milk
+# Detection-of-Adulterants-in-Milk
